@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Iqra Iqbal</h1>
-<h3 align="center">Aspiring Full Stck Development,Passionate about web & AI from India</h3>
+                          from India
+<h3 align="center">Aspiring Full Stck Developer,Passionate about web & AI </h3>
 
 - 📫 How to reach me **iqraiqbal39683@gmail.com**
 
